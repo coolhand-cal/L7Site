@@ -1,0 +1,57 @@
+.mainImg {
+  width: 90%;
+  height: 500px;
+  padding-left: 100px;
+  padding-top: 15px;
+}
+
+header h1 {
+  padding-left: 0px;
+  padding-right: 100px;
+  float: right;
+  transform: translate(-170px);
+}
+
+html {
+  background-color: black;
+}
+
+.container {
+  background-color: black;
+  color: aliceblue;
+}
+.nav a:hover {
+  color: #f30002;
+}
+.nav-link {
+  color: aliceblue;
+}
+.agos {
+  font-size: 64px;
+  transform: translate(300px, 160px);
+}
+.videoSection {
+  width: 100%;
+  background-image: url("/images/L7wallV2.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 600px;
+  min-height: 600px;
+}
+
+.featureVideo {
+  transform: translate(100px, 180px);
+}
+
+.videoSection {
+  color: aliceblue;
+}
+
+.l7Quote {
+  transform: translate(0px, 250px);
+}
+
+.artistSection {
+  padding-top: 50px;
+  color: black;
+}
